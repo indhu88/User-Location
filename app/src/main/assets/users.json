@@ -1,0 +1,74 @@
+{"users":[
+    {
+      "hcid":"13","name":"Kacyiru Cs",
+      "sector":"Kacyiru",
+      "longitude":"26.50999914",
+      "latitude":"55.87995994",
+      "image": "",
+      "address": "P130, Daugavpils, LV-1050, Latvia"
+
+    },
+    {
+      "hcid":"11",
+      "name":"Gashora Cs",
+      "sector":"Gashora",
+      "longitude":"23.71280554",
+      "latitude":"56.65270347",
+      "image": "",
+      "address": "P132, Jelgava, LV-1052, Latvia"
+    },
+    {
+      "hcid":"12",
+      "name":"Juru Cs",
+      "sector":"Juru",
+      "longitude":"27.3165649",
+      "latitude":"56.50002545",
+      "image": "",
+      "address": "P134, Rezekne, LV-1054, Latvia"
+    },
+    {
+      "hcid":"14",
+      "name":"Kacyiru Police Hospital",
+      "sector":"Kacyiru",
+      "longitude":"21.01002478",
+      "latitude":"56.50997316",
+      "image": "",
+      "address": "P136, Liepaga, LV-1056, Latvia"
+    },
+    {
+      "hcid":"15",
+      "name":"Kabusunzu Cs",
+      "sector":"Nyakabanda",
+      "longitude":"24.09996537",
+      "latitude":"56.95002382",
+      "image": "",
+      "address": "P138, Riga, LV-1058, Latvia"
+    },
+    {
+      "hcid":"16",
+      "name":"Kimironko Cs",
+      "sector":"Kimironko",
+      "longitude":"21.56058549",
+      "latitude":"57.38986778",
+      "image": "",
+      "address": "P140, Ventspils, LV-1060, Latvia"
+    },
+  {
+    "hcid":"22",
+    "name":"Pharmacy Continental",
+    "sector":"Kibaza",
+    "longitude":"25.266872",
+    "latitude":"57.308613",
+    "image": "",
+    "address": "Cēsis, Vidzeme, Latvia"
+  },
+  {
+    "hcid":"23",
+    "name":"King Faycal Hospital",
+    "sector":"Kacyiru",
+    "longitude":"26.225515",
+    "latitude":"56.854996",
+    "image": "",
+    "address": "Madona, Madonas Province, Latvia"
+  }
+]}
